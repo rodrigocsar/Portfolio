@@ -1,0 +1,27 @@
+.formation{
+    display: flex;
+    flex-direction: column;
+}
+
+.formation .bootcamp h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formation .bootcamp ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+   
+}
+
+.formation .bootcamp ul li img {
+    max-width: 30px;
+    margin: 0 .5rem;
+}
