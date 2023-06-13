@@ -40,12 +40,12 @@
     "portfolio": [
       {
         "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "url": "https://github.com/rodrigocsar/js-developer-pokedex",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Curso Ministrado na DIO para a criação de uma página de Blog",
+        "url": "https://github.com/rodrigocsar/angular_blog",
         "github": true
       }
     ],
@@ -53,7 +53,7 @@
       {
         "name": "Porteiro folguista / Edifícil Farol de itapoã",
         "period": "2019 - até o momento",
-        "description": "Trabalho em um condominio e estudo no meu local de trabalho, procuro carreira na area de tecnoligia focado em front-end ."
+        "description": "Trabalho em um condomínio e estudo no meu local de trabalho, procuro carreira na area de tecnoligia focado em front-end ."
       }
     ]
   }
