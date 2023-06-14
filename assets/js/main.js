@@ -42,6 +42,19 @@ function updateFormation(profileData){
     education.innerHTML = profileData.education.formation.map(form => `<li><img src="${form.logo}" alt="${form.name}" title="${form.name}"></li>`).join('')
 }
 
+function updateAttributive(profileData){
+    const form = document.getElementById('profile.attributive')
+    form.innerHTML = profileData.education.attributive.map(proj => {
+        return `
+            <li>
+                <h3 ${proj.description ? 'class="title github"' : ''}>${proj.name}</h3>
+                <a href="${proj.url}" target="_blank">${proj.url}</a>
+            </li>
+        `
+        
+    }).join('')
+}
+
 function updatePortfolio(profileData) {
     const portfolio = document.getElementById('profile.portfolio')
     portfolio.innerHTML = profileData.portfolio.map(project => {
@@ -76,4 +89,5 @@ function updateProfessionalExperience(profileData) {
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
     updateFormation(profileData)
+    updateAttributive(profileData)
 })()
