@@ -41,18 +41,35 @@
 
      "formation": [
       {
-        "name": "JavaScript",
+        "name": "JavaScript Developer",
         "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/javaScript.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/angularBootcamp.png"
+        "name": "Angular Developer",
+        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/angularBTedt%20.png"
       },
       {
         "name": "OrangeTech",
-        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/orangeTech.png"
+        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/orangeTech%20(1).png"
       }
 
+    ],
+    "attributive": [
+      {
+        "name": "UAM - Analise e desenvolvimento de sistemas",
+        "url": "https://github.com/rodrigocsar/angular_blog",
+        "description": "Primeiro semestre"
+      },
+      {
+        "name": "Curso Desenvolvedor Front-end",
+        "url": "https://github.com/rodrigocsar/angular_blog",
+        "description": "Curso ministrado pala Faculdade XP educação -IGTI"
+      },
+      {
+        "name": "Curso Programador de software Iniciate",
+        "url": "https://github.com/rodrigocsar/angular_blog",
+        "description": "Curso ministrado pala Faculdade XP educação -IGTI"
+      }
     ]
   },
 
@@ -72,7 +89,7 @@
       {
         "name": "Porteiro folguista / Edifícil Farol de itapoã",
         "period": "2019 - até o momento",
-        "description": "No momento trabalho em um condomínio e estudo no meu local de trabalho, busco carreira na área de tecnoligia focado em front-end ."
+        "description": "No momento trabalho em um condomínio e estudo no meu local de trabalho, busco carreira na área de tecnologia focado em front-end ."
       }
     ]
   }
