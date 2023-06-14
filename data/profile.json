@@ -53,6 +53,23 @@
         "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/orangeTech%20(1).png"
       }
 
+    ],
+    "attributive": [
+      {
+        "name": "UAM - Analise e desenvolvimento de sistemas",
+        "period": "2023 - ate o momento",
+        "description": "Primeiro semestre"
+      },
+      {
+        "name": "Curso Desenvolvedor Front-end",
+        "period": "18/08/2022 - 01/11/2022",
+        "description": "Curso ministrado pala Faculdade XP educação -IGTI"
+      },
+      {
+        "name": "Curso Programador de software Iniciate",
+        "period": "14/07/2022 - 27/09/2022",
+        "description": "Curso ministrado pala Faculdade XP educação -IGTI"
+      }
     ]
   },
 
