@@ -36,6 +36,25 @@
     "languages": [
       "Português BR"
     ],
+  
+    "education": {
+
+     "formation": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/javaScript.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/angularBootcamp.png"
+      },
+      {
+        "name": "OrangeTech",
+        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/orangeTech.png"
+      }
+
+    ]
+  },
 
     "portfolio": [
       {
@@ -53,7 +72,7 @@
       {
         "name": "Porteiro folguista / Edifícil Farol de itapoã",
         "period": "2019 - até o momento",
-        "description": "Trabalho em um condomínio e estudo no meu local de trabalho, procuro carreira na area de tecnoligia focado em front-end ."
+        "description": "No momento trabalho em um condomínio e estudo no meu local de trabalho, busco carreira na área de tecnoligia focado em front-end ."
       }
     ]
   }
