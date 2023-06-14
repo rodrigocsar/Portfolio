@@ -41,16 +41,16 @@
 
      "formation": [
       {
-        "name": "JavaScript",
+        "name": "JavaScript Developer",
         "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/javaScript.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/angularBootcamp.png"
+        "name": "Angular Developer",
+        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/angularBTedt%20.png"
       },
       {
         "name": "OrangeTech",
-        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/orangeTech.png"
+        "logo": "https://raw.githubusercontent.com/rodrigocsar/Portifolio/master/assets/imgPng/orangeTech%20(1).png"
       }
 
     ]
