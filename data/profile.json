@@ -57,17 +57,17 @@
     "attributive": [
       {
         "name": "UAM - Analise e desenvolvimento de sistemas",
-        "period": "2023 - ate o momento",
+        "url": "https://github.com/rodrigocsar/angular_blog",
         "description": "Primeiro semestre"
       },
       {
         "name": "Curso Desenvolvedor Front-end",
-        "period": "18/08/2022 - 01/11/2022",
+        "url": "https://github.com/rodrigocsar/angular_blog",
         "description": "Curso ministrado pala Faculdade XP educação -IGTI"
       },
       {
         "name": "Curso Programador de software Iniciate",
-        "period": "14/07/2022 - 27/09/2022",
+        "url": "https://github.com/rodrigocsar/angular_blog",
         "description": "Curso ministrado pala Faculdade XP educação -IGTI"
       }
     ]
