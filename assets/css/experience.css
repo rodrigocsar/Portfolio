@@ -23,6 +23,6 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(..//icons/experience.svg);
+    background-image: url('..//icons/experience.svg');
     margin-left: 0.5rem;
 }
