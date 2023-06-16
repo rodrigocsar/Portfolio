@@ -1,12 +1,14 @@
 .formation{
     display: flex;
     flex-direction: column;
+    
 }
 
 .formation .bootcamp h3 {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0 ;
 }
 
 .formation .bootcamp ul {
@@ -16,12 +18,23 @@
     align-items: center;
     flex-wrap: wrap;
     margin: 0;
-    padding: 0;
+    padding: 0 ;
     list-style: none;
+  
    
 }
 
+.formation .curses ul {
+    display: flex;
+    flex-direction: column;
+    
+    flex-wrap: wrap;
+    margin: 0rem;
+    padding: 0 ;
+}
+
+
 .formation .bootcamp ul li img {
     max-width: 120px;
-    margin: 1rem;
+    margin: 0;
 }
