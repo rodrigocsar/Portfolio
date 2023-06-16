@@ -29,7 +29,7 @@
 
 .acordeon .trigger h2 {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     text-align: start;
 }
 
@@ -45,7 +45,7 @@
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('../icons/arrow.svg');
+    background-image: url('../img/icons/arrow.svg');
     transition: 0.25s;
 }
 

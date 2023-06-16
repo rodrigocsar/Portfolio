@@ -4,25 +4,27 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    font-size: 1rem;
+    font-weight: 100;
 }
 
-.experience li {
-    margin-bottom: 1rem;
-}
 
 .experience li .period {
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin-bottom: 1rem;
+    
 }
 
 .experience li .period::before {
     content: "";
     display: inline-block;
+   
     width: 2rem;
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url('..//img/icons/experience.svg');
-    margin-left: 0.5rem;
+    
 }

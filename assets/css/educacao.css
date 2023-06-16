@@ -24,10 +24,12 @@
    
 }
 
-
-
+.formation .bootcamp h3 {
+   font-size: 1.5rem;
+}
 
 .formation .bootcamp ul li img {
     max-width: 120px;
     margin: 0;
+    
 }
