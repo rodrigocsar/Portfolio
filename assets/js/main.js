@@ -49,9 +49,8 @@ function updateAttributive(profileData){
         return `
             <li>
                 <h3 ${proj.description ? 'class="curses"' : ''}>${proj.name}</h3>
-                 <a href="${proj.url}" target="_blank">${proj.name}</a>
-                
-            </li>
+                 <a href="${proj.url}" target="_blank">${proj.description}</a>
+           </li>
         `
         
     }).join('')
