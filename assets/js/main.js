@@ -48,8 +48,9 @@ function updateAttributive(profileData){
     form.innerHTML = profileData.education.attributive.map(proj => {
         return `
             <li>
-                <h3 ${proj.description ? 'class="title github"' : ''}>${proj.name}</h3>
-                <a href="${proj.url}" target="_blank">${proj.url}</a>
+                <h3 ${proj.description ? 'class="curses"' : ''}>${proj.name}</h3>
+                 <a href="${proj.url}" target="_blank">${proj.name}</a>
+                
             </li>
         `
         
