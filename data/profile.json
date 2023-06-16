@@ -76,13 +76,11 @@
       {
         "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
         "url": "https://github.com/rodrigocsar/js-developer-pokedex",
-        "description": "Pokedex",
         "github": true
       },
       {
         "name": "Curso Ministrado na DIO para a criação de uma página de Blog",
         "url": "https://github.com/rodrigocsar/angular_blog",
-        "description": "Blog",
         "github": true
       }
     ],
