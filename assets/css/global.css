@@ -33,7 +33,7 @@ body {
 .main::before,
 .main::after {
     content: '';
-    background-image: url('../img/backgroud.svg');
+    background-image: url('../img/icons/backgroud.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;

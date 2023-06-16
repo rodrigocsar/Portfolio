@@ -24,13 +24,7 @@
    
 }
 
-.formation .curses ul {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    margin: 0rem;
-    padding: 0 ;
-}
+
 
 
 .formation .bootcamp ul li img {
