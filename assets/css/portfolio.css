@@ -8,7 +8,7 @@
     list-style: none;
 }
 
-.portfolio li {
+.portfolio  {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -17,7 +17,7 @@
     margin: 1rem 0;
 }
 
-.portfolio li h3 {
+.portfolio li a {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -26,13 +26,13 @@
     
 }
 
-.portfolio li h3.github::before {
+.portfolio li a.project::before {
     content: "";
     display: inline-block;
-    width: 1rem;
+    width: 2rem;
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url('../img/icons/github.svg');
-    margin-right: .5rem;
+   
 }
