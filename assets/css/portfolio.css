@@ -8,14 +8,6 @@
     list-style: none;
 }
 
-.portfolio  {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    font-size: 1rem;
-    font-weight: 100;
-    margin: 1rem 0;
-}
 
 .portfolio li a {
     display: flex;
