@@ -9,18 +9,17 @@
 }
 
 
-.experience li .period {
+.experience li a.period {
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-bottom: 1rem;
+    
     
 }
 
 .experience li .period::before {
     content: "";
     display: inline-block;
-   
     width: 2rem;
     height: 1rem;
     background-repeat: no-repeat;
