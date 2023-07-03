@@ -18,7 +18,7 @@
     
 }
 
-.portfolio li a.project::before {
+.portfolio li a.    project::before {
     content: "";
     display: inline-block;
     width: 2rem;
