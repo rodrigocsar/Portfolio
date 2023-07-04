@@ -64,21 +64,18 @@ function updatePortfolio(profileData) {
     const portfolio = document.getElementById('profile.portfolio')
     portfolio.innerHTML = profileData.portfolio.map(project => {
         return `
-<<<<<<< HEAD
             <li>
                 <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
               
                    <a class="project" href="${project.url }" target="_blank">${project.description} </a>
                 
             </li>
-=======
         <li>
         <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
       
            <a class="project" href="${project.url }" target="_blank">${project.description} </a>
         
     </li>
->>>>>>> c5c99c9ae2a8734e2494af4291e4ac43edb54f29
         `
     }).join('')
 }
