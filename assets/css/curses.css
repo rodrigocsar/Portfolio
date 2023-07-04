@@ -33,7 +33,7 @@
     
 }
 
-.curses li a.form::before {
+.curses  li a.form::before {
     content: "";
     display: inline-block;
     width: 2rem;
