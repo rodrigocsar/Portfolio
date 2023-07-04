@@ -28,7 +28,7 @@
 .portfolio li a.project::before {
     content: "";
     display: inline-block;
-    width: 1rem;
+    width: 2rem;
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
