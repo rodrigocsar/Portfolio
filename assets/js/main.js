@@ -49,11 +49,7 @@ function updateAttributive(profileData){
         return `
             <li>
                 <h3 ${proj.description ? 'class="curses"' : ''}>${proj.name}</h3>
-<<<<<<< HEAD
                  <a class="form" href="${proj.url}" target="_blank">${proj.description}</a>
-=======
-                 <a  class="form" href="${proj.url}" target="_blank">${proj.description}</a>
->>>>>>> c5c99c9ae2a8734e2494af4291e4ac43edb54f29
            </li>
         `
         
@@ -70,12 +66,6 @@ function updatePortfolio(profileData) {
                    <a class="project" href="${project.url }" target="_blank">${project.description} </a>
                 
             </li>
-        <li>
-        <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
-      
-           <a class="project" href="${project.url }" target="_blank">${project.description} </a>
-        
-    </li>
         `
     }).join('')
 }
@@ -94,7 +84,7 @@ function updateProfessionalExperience(profileData) {
 }
 
 (async () => {
-    const profileData = await fetchProfileData()
+    const profileData =  profileData()
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
