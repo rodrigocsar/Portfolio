@@ -84,7 +84,7 @@ function updateProfessionalExperience(profileData) {
 }
 
 (async () => {
-    const profileData =  profileData()
+    const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
